@@ -1,0 +1,1 @@
+# agile-coach-generator
